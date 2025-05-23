@@ -1,5 +1,7 @@
 # DigitalPortfolio
 Welcome to my Digital Portfolio. This portfolio highlights my learning journey, key artefacts, and reflections as part of the Work Readiness Training module.
+Below is the link to the video explaining the projects i have been working on. It is a shareable link so anyone with the link should be able to access.
+https://drive.google.com/file/d/1O0pIQKDdINMM6NmRYVXXC1M1YOwp_IcW/view?usp=share_link
 
 Career Development
 <img width="1440" alt="image" src="https://github.com/user-attachments/assets/37da1c8d-ec42-4534-b037-3569a0c03ca6" />
